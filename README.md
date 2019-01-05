@@ -9,8 +9,10 @@ As we use node.js, we have a non-blocking I/O which helps us create a lock-free,
 2. socket.io (http://socket.io/download/)
 
 ## Start Services
+```
 $ cd src
 $ node index.js
+```
 
 ## Run Application 
 1. Open 2 separate browsers with url "http://localhost:3000/" 
